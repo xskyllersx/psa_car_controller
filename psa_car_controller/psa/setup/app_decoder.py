@@ -13,8 +13,8 @@ from psa_car_controller.psacc.application.charge_control import ChargeControl, C
 
 logger = logging.getLogger(__name__)
 
-APP_VERSION = "1.33.0"
-GITHUB_USER = "flobz"
+APP_VERSION = "1.37.8"
+GITHUB_USER = "xskyllersx"
 GITHUB_REPO = "psa_apk"
 
 
